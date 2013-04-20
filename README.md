@@ -13,6 +13,8 @@ mCamera = new VideoCapture(Highgui.CV_CAP_ANDROID+1);//Front Camera
 
 
 imran [AT] imranakthar [DOT] com
+imranakthar.com
+
 
 
 
