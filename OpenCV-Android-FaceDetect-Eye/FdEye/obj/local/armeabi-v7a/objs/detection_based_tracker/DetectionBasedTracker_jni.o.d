@@ -1,8 +1,8 @@
 obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o: \
  jni/DetectionBasedTracker_jni.cpp jni/DetectionBasedTracker_jni.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h \
- ../../sdk/native/jni/include/opencv2/core/core.hpp \
- ../../sdk/native/jni/include/opencv2/core/types_c.h \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/core.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/types_c.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/assert.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -31,18 +31,18 @@ obj/local/armeabi-v7a/objs/detection_based_tracker/DetectionBasedTracker_jni.o: 
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/limits.h \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
- ../../sdk/native/jni/include/opencv2/core/version.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/version.hpp \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/cstddef \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/complex \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
- ../../sdk/native/jni/include/opencv2/core/operations.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/operations.hpp \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/limits \
- ../../sdk/native/jni/include/opencv2/core/mat.hpp \
- ../../sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp \
- ../../sdk/native/jni/include/opencv2/objdetect/objdetect.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/mat.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/contrib/detection_based_tracker.hpp \
+ C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/objdetect/objdetect.hpp \
  C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/deque \
  C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/android/log.h
 
@@ -50,9 +50,9 @@ jni/DetectionBasedTracker_jni.h:
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h:
 
-../../sdk/native/jni/include/opencv2/core/core.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/core.hpp:
 
-../../sdk/native/jni/include/opencv2/core/types_c.h:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/types_c.h:
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/assert.h:
 
@@ -110,7 +110,7 @@ C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/inc
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
 
-../../sdk/native/jni/include/opencv2/core/version.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/version.hpp:
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:
 
@@ -124,15 +124,15 @@ C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/inc
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
 
-../../sdk/native/jni/include/opencv2/core/operations.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/operations.hpp:
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/limits:
 
-../../sdk/native/jni/include/opencv2/core/mat.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/core/mat.hpp:
 
-../../sdk/native/jni/include/opencv2/contrib/detection_based_tracker.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/contrib/detection_based_tracker.hpp:
 
-../../sdk/native/jni/include/opencv2/objdetect/objdetect.hpp:
+C:/work\OpenCV-2.4.2-android-sdk\OpenCV-2.4.2-android-sdk\sdk\native\jni\/include/opencv2/objdetect/objdetect.hpp:
 
 C:/android-ndk-r8b-windows/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/deque:
 
