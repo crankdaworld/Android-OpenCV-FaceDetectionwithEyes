@@ -11,6 +11,7 @@ mCamera = new VideoCapture(Highgui.CV_CAP_ANDROID+1);//Front Camera
 
 3. I have tested this in my handset Sony Neo V , Android SDK 4.0
 
+More information on the source code login can be found at http://imranakthar.com/android-opencv-detecting-face-and-eye/ 
 
 imran [AT] imranakthar [DOT] com
 imranakthar.com
