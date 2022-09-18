@@ -14,7 +14,7 @@ mCamera = new VideoCapture(Highgui.CV_CAP_ANDROID+1);//Front Camera
 More information on the source code login can be found at http://imranakthar.com/android-opencv-detecting-face-and-eye/ 
 
 imran [AT] imranakthar [DOT] com
-imranakthar.com
+www.imranakthar.com
 
 
 
